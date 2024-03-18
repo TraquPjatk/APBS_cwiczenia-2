@@ -11,16 +11,17 @@ public class FluidContainer : Container<Fluid>, IHazardNotifier
 
     public override void UnloadWeight()
     {
-        throw new NotImplementedException();
+        Weight = 0;
     }
 
     public override void LoadWeight(Fluid cargo)
     {
-        throw new NotImplementedException();
+        //TODO jeśli ilość cargo jest większa niż maxPoj kontenera - OverfillException, itp.
+        Weight = cargo.Amount;
     }
 
     public void NotifyHazadr(string message)
     {
-        throw new NotImplementedException();
+        Console.WriteLine(($"{SerialNuber}: {message}"));
     }
 }
