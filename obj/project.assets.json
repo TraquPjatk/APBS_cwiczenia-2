@@ -1,38 +1,38 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s19787\\.nuget\\packages\\": {}
+    "C:\\Users\\piotr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s19787\\RiderProjects\\Cwiczenia2\\Cwiczenia2\\Cwiczenia2.csproj",
+      "projectUniqueName": "C:\\Users\\piotr\\Desktop\\testing enviornment\\APBS_cwiczenia-2\\Cwiczenia2.csproj",
       "projectName": "Cwiczenia2",
-      "projectPath": "C:\\Users\\s19787\\RiderProjects\\Cwiczenia2\\Cwiczenia2\\Cwiczenia2.csproj",
-      "packagesPath": "C:\\Users\\s19787\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s19787\\RiderProjects\\Cwiczenia2\\Cwiczenia2\\obj\\",
+      "projectPath": "C:\\Users\\piotr\\Desktop\\testing enviornment\\APBS_cwiczenia-2\\Cwiczenia2.csproj",
+      "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\piotr\\Desktop\\testing enviornment\\APBS_cwiczenia-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\s19787\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -40,16 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

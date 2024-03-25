@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\bin\Debug\net7.0\Cwiczenia2.exe
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\bin\Debug\net7.0\Cwiczenia2.deps.json
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\bin\Debug\net7.0\Cwiczenia2.runtimeconfig.json
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\bin\Debug\net7.0\Cwiczenia2.dll
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\bin\Debug\net7.0\Cwiczenia2.pdb
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.AssemblyInfo.cs
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.dll
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\refint\Cwiczenia2.dll
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.pdb
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\Cwiczenia2.genruntimeconfig.cache
+C:\Users\piotr\Desktop\testing enviornment\APBS_cwiczenia-2\obj\Debug\net7.0\ref\Cwiczenia2.dll

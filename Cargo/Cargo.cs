@@ -1,14 +1,15 @@
-﻿namespace Cwiczenia2.Cargo;
+﻿using Cwiczenia2.Enums;
+
+namespace Cwiczenia2.Cargo;
 
 public abstract class Cargo
 {
-    protected Cargo(string type, int amount)
+    protected Cargo(string type, double amount)
     {
         Type = type;
         Amount = amount;
     }
 
     public String Type { get; set; }
-    public int Amount { get; set; }
-    
+    public double Amount { get; set; }
 }

@@ -1,7 +1,7 @@
 ﻿namespace Cwiczenia2.Enums;
 
-public enum ProductType
+public enum Safety
 {
-    Normal = 0,
+    Safe = 0,
     Hazardous = 1
 }
