@@ -65,6 +65,10 @@ public class LiquidContainer : Container<Liquid>, IHazardNotifier
                 Console.ResetColor();
             }
         }
+        else
+        {
+            PayloadWeight = cargo.Amount;
+        }
     }
 
     public void NotifyHazadr(string message)
