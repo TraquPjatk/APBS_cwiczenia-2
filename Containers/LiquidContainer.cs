@@ -12,11 +12,10 @@ public class LiquidContainer : Container<Liquid>, IHazardNotifier
 {
     public Safety Type { get; set; }
 
-    
+
     public LiquidContainer(int height, int containerWeight, int containerDepth, int maxPayloadWeight) :
         base(height, containerWeight, containerDepth, maxPayloadWeight)
     {
-        SerialNuber = SerialNuber;
     }
 
     // public static FluidContainer Create(int height, int containerWeight, int containerDepth, int maxWeight, string serialNumber, Safety safety)

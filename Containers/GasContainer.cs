@@ -11,7 +11,6 @@ namespace Cwiczenia2.Containers
             containerWeight, containerDepth, maxPayloadWeight)
         {
             Atmospheres = 1.0;
-            SerialNuber = SerialNuber;
         }
 
         public override void UnloadWeight()

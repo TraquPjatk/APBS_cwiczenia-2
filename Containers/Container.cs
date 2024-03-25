@@ -11,6 +11,7 @@ public abstract class Container<T>
         ContainerWeight = containerWeight;
         ContainerDepth = containerDepth;
         MaxPayloadWeight = maxPayloadWeight;
+        SerialNuber = SerialNuber;
     }
 
     public double PayloadWeight { get; set; }
