@@ -1,6 +1,7 @@
 ﻿using Cwiczenia2.Cargo;
 using Cwiczenia2.Containers;
 using Cwiczenia2.Enums;
+using Cwiczenia2.Transporters;
 
 //----------------------------------------------------------------------------------------------------------------------
 Console.ForegroundColor = ConsoleColor.Blue;
@@ -40,3 +41,7 @@ Console.ForegroundColor = ConsoleColor.DarkBlue;
 Console.WriteLine("\nShipment:");
 Console.ResetColor();
 
+
+Transporter<Cargo> transporter = new Transporter<Cargo>(15, 5000, 5000000);
+// transporter.LoadContainer(liquidContainerHazardousExceeded);
+Console.WriteLine("Nie wiem dlaczego nie mogę parametryzować Listy<Container>");
